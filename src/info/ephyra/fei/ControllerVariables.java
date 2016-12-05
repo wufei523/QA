@@ -11,8 +11,8 @@ public class ControllerVariables {
 	public static boolean printStatusOrNot = true;
 	public static boolean enableLoggingOrNot = true;
 	public static boolean printErrorsOrNot = true;
-	public static String pathToTopicDocuments = "/Users/feiwu/Dropbox/16Summer/Papers/mainEvalALL/manual/peers";
-	public static String pathToQuestionFileFolder = "/Users/feiwu/Dropbox/16Summer/Ready to run Systems and results/ThirdEvaluationTry/QuestionGeneratedFromOriginal/";
+	public static String pathToTopicDocuments = "mainEvalALL/manual/peers";
+	public static String pathToQuestionFileFolder = "QuestionGeneratedFromOriginal/";
 	public static final String Factoid_Type = "FACTOID";
 	public static String pathToIndividualResultFolder="individualResults/";
 	
