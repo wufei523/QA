@@ -245,7 +245,7 @@ public class Search
             //find knowledge file
             //File folder = new File("/home/fw/Dropbox/16Summer/Papers/mainEvalALL/manual/peers");
             //mac
-            File folder = new File("/Users/feiwu/Dropbox/16Summer/Papers/mainEvalALL/manual/peers");
+            File folder = new File(ControllerVariables.pathToTopicDocuments);
             
             
             File[] listOfSummarizationForAllTopics = folder.listFiles();
