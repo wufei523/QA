@@ -25,10 +25,9 @@ README         This file
 Build:
 ----------------
 
-Use ant build file to build:
+Use ant build file to build
 
 Run:
-
 ----------------
 Run OpenEphyra in command line mode
 
