@@ -401,7 +401,7 @@ public class OpenEphyra {
 					Result[] results = askFactoid(question, FACTOID_MAX_ANSWERS, FACTOID_ABS_THRESH);
 					
 					
-					String outputFile = ControllerVariables.pathToIndividualResultFolder + "/answers." + topicNumber + "." + current_system_id + ".csv";
+					String outputFile = ControllerVariables.pathToIndividualResultFolder + "answers." + topicNumber + "." + current_system_id + ".csv";
 					boolean alreadyExists = new File(outputFile).exists();
 
 					try {
